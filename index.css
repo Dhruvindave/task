@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+.form-container{
+    /* font-size:23px; */
+    /* margin: 29px 100px; */
+    /* width:60%; */
+    font-family: 'Prosto One', cursive;
+}
+.main-container{
+    height: 60% !important;
+}
+/* .course-form{
+    margin: 34px 44px !important;
+} */
+.heading{
+    margin:0px 100px;
+}
+.form-div{
+    color:darkblue;
+}
+body{
+    background-color:aliceblue;
+}
+.table-container{
+    width:60%;
+    margin: 12px 150px;
+}
